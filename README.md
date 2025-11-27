@@ -1,4 +1,4 @@
-# Online Real Estate Management System-
+# Online Real Estate Management System
 
 ## 📌 Introduction
 The **Online Real Estate Management System** is a full-featured web‑based Java application designed to simplify and automate property rental operations. It acts as a bridge between **property managers**, **tenants**, and **administrators**, providing smooth communication and efficient handling of rental processes.
